@@ -1,0 +1,64 @@
+.searchdiv,button,input,.search
+{
+  display:inline;
+}
+input
+{
+  width:400px;
+  height:25px;
+}
+.searchdiv
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn
+{
+  border:0.1rem solid black;
+}
+.bgimg1
+{
+  background-image: url("i1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bgimg2
+{
+  background-image: url("i2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bgimg3
+{
+  background-image: url("i3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bgimg4
+{
+  background-image: url("i4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.car
+{
+  margin:0 300px;
+  text-align: center;
+}
+.formdiv
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+body
+{
+  background-color: lightblue;
+}
+ 
+
